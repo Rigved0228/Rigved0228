@@ -12,7 +12,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 - 🧠 Fun fact: Once built an AI girlfriend inspired by the movie "Her" – turns out, I might be better at relationships with code than with people! 😄
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=social)](https://instagram.com/rigvedk28)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=plastic)](https://instagram.com/rigvedk28)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](ww.linkedin.com/in/rigved-kulkarni-a479b8193)
 
 
