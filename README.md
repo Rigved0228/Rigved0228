@@ -19,9 +19,13 @@
 
 ## 🚀 Projects
 [![AI Girlfriend](https://img.shields.io/badge/-AI%20Girlfriend-red)](https://github.com/Rigved0228/AI-Girlfriend)
+[![AI Girlfriend](https://img.shields.io/badge/-AI%20Girlfriend-red)](https://github.com/Rigved0228/AI-Girlfriend)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+###🐍 Snake Contributions
+![Snake animation](https://github.com/Rigved0228/Rigved0228/blob/output/github-contribution-grid-snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rigved0228&icon=0&color=0)](https://visitcount.itsvg.in)
