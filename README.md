@@ -44,7 +44,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
 ## 🚀 Projects
 [![AI Girlfriend](https://img.shields.io/badge/-AI%20Girlfriend-red)](https://github.com/Rigved0228/AI-Girlfriend)
-![Speech-to-Text](https://img.shields.io/badge/Speech--to--Text-%2300C4CC?style=for-the-badge&logo=google&logoColor=white)
+[![Speech-to-Text](https://img.shields.io/badge/Speech--to--Text-%2300C4CC?style=for-the-badge&logo=google&logoColor=white)](https://github.com/Rigved0228/Speech-To-Text)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
