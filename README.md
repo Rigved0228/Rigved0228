@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Full-Stack+Developer;AI+Explorer;Vue.js+Fanatic;Always+Learning)](https://git.io/typing-svg)
 
 - 🔭 Currently working on Vue.js
 - 🌱 I’m currently learning LLM
@@ -24,11 +25,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ###🐍 Snake Contributions
 ![Snake animation](https://github.com/Rigved0228/Rigved0228/blob/output/github-contribution-grid-snake.svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Full-Stack+Developer;AI+Explorer;Vue.js+Fanatic;Always+Learning)](https://git.io/typing-svg)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rigved0228&icon=0&color=0)](https://visitcount.itsvg.in)
