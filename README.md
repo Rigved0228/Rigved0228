@@ -11,7 +11,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
      - Contributing to open-source projects
      - Collaborating on tech-related research or projects
 
-- 📫 How to reach me: [rigvedkulkarni28@gmail.com](rigvedkulkarni28@gmail.com)
+- 📫 How to reach me: [rigvedkulkarni28@gmail.com](mailto:rigvedkulkarni28@gmail.com)
 - 🧠 Fun fact: Once built an AI girlfriend inspired by the movie "Her" – turns out, I might be better at relationships with code than with people! 😄
 
 ## 🌐 Socials:
