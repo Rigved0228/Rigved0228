@@ -4,7 +4,6 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
 - 🔭 Currently working on Vue.js
 - 🌱 I’m currently learning LLM
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with: 
      - Advanced machine learning algorithms and their applications
      - Full-stack development challenges (especially backend optimizations)
