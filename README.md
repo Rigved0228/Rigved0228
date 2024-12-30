@@ -46,6 +46,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rigved0228&layout=compact&theme=tokyonight)
 
+
 ## 🚀 Projects  
 [![AI Girlfriend](https://img.shields.io/badge/-AI%20Girlfriend-red)](https://github.com/Rigved0228/AI-Girlfriend)  
 [![Speech-to-Text](https://img.shields.io/badge/Speech--to--Text-green)](https://github.com/Rigved0228/Speech-To-Text)  
