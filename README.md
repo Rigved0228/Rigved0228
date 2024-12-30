@@ -46,10 +46,10 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rigved0228&layout=compact&theme=tokyonight)
 
-## 🚀 Projects
-[![AI Girlfriend](https://img.shields.io/badge/-AI%20Girlfriend-red)](https://github.com/Rigved0228/AI-Girlfriend)
-[![Speech-to-Text](https://img.shields.io/badge/Speech--to--Text-green)](https://github.com/Rigved0228/Speech-To-Text)
-[![Text-2-Pix](https://img.shields.io/badge/Speech--to--Text-green)](https://github.com/Rigved0228/Speech-To-Text)
+## 🚀 Projects  
+[![AI Girlfriend](https://img.shields.io/badge/-AI%20Girlfriend-red)](https://github.com/Rigved0228/AI-Girlfriend)  
+[![Speech-to-Text](https://img.shields.io/badge/Speech--to--Text-green)](https://github.com/Rigved0228/Speech-To-Text)  
+[![Text2Pix](https://img.shields.io/badge/Text2Pix-blue)](https://github.com/Rigved0228/Text2Pix)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
