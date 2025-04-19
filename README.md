@@ -2,7 +2,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Full-Stack+Developer;AI+Explorer;Vue.js+Fanatic;Always+Learning)](https://git.io/typing-svg)
 
-- 🔭 Currently working on Vue.js
+- 🔭 Currently working on C++, Java, React.js
 - 🌱 I’m currently learning LLM
 - 🤔 I’m looking for help with: 
      - Advanced machine learning algorithms and their applications
